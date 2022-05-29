@@ -1,0 +1,12 @@
+{
+  "name": "node_examples",
+  "version": "1.0.0",
+  "description": "NodeExamples",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeexamples",
+    "start": "node index"
+  },
+  "author": "Farith",
+  "license": "ISC"
+}
